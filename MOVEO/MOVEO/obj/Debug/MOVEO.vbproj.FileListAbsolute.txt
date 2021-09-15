@@ -1,0 +1,12 @@
+C:\Users\kamis\source\repos\MOVEO\MOVEO\bin\Debug\MOVEO.exe.config
+C:\Users\kamis\source\repos\MOVEO\MOVEO\bin\Debug\MOVEO.exe
+C:\Users\kamis\source\repos\MOVEO\MOVEO\bin\Debug\MOVEO.pdb
+C:\Users\kamis\source\repos\MOVEO\MOVEO\bin\Debug\MOVEO.xml
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.Form1.resources
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.Resources.resources
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.vbproj.GenerateResource.cache
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.vbproj.CoreCompileInputs.cache
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.exe
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.xml
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.pdb
+C:\Users\kamis\source\repos\MOVEO\MOVEO\obj\Debug\MOVEO.vbprojAssemblyReference.cache
